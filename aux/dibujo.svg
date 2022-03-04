@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7987213"
+     inkscape:cx="400.28436"
+     inkscape:cy="282.14488"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect86760"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,8.73125,0,1 @ F,0,0,1,0,8.73125,0,1 @ F,0,0,1,0,8.73125,0,1 @ F,0,0,1,0,8.73125,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="33"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient40468"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#940000;stop-opacity:1"
+         offset="0"
+         id="stop40788" />
+      <stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="0.4984538"
+         id="stop61535" />
+      <stop
+         style="stop-color:#940000;stop-opacity:1"
+         offset="1"
+         id="stop40790" />
+    </linearGradient>
+    <rect
+       x="295.17951"
+       y="258.82122"
+       width="511.08219"
+       height="47.700084"
+       id="rect16509" />
+    <rect
+       x="199.4014"
+       y="115.83295"
+       width="393.26002"
+       height="187.75796"
+       id="rect5559" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient40468"
+       id="linearGradient48500"
+       x1="174.67123"
+       y1="440.49167"
+       x2="526.77789"
+       y2="440.49167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82356549,0,0,0.85519318,128.01363,-178.92364)"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Rectangulo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:url(#linearGradient48500);fill-opacity:1;stroke:#000000;stroke-width:0.861732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect45352"
+       width="289.98291"
+       height="190.73062"
+       x="271.86685"
+       y="102.41654"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332"
+       sodipodi:type="rect"
+       inkscape:path-effect="#path-effect86760"
+       d="m 280.5981,102.41654 h 272.52041 a 8.73125,8.73125 45 0 1 8.73125,8.73125 v 173.26812 a 8.73125,8.73125 135 0 1 -8.73125,8.73125 H 280.5981 a 8.73125,8.73125 45 0 1 -8.73125,-8.73125 l 0,-173.26812 a 8.73125,8.73125 135 0 1 8.73125,-8.73125 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="adornos">
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.447361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84043"
+       cx="550.47302"
+       cy="112.03705"
+       r="4.5007291"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.447361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84043-1"
+       cx="549.17224"
+       cy="281.81723"
+       r="4.5007291"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.447361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84043-3"
+       cx="281.51614"
+       cy="282.5094"
+       r="4.5007291"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.447361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84043-7"
+       cx="280.96317"
+       cy="112.29181"
+       r="4.5007291"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Letras">
+    <text
+       xml:space="preserve"
+       id="text5557"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.706743px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5559);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0843054;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="22.139975"
+       y="0"
+       transform="matrix(5.1328142,0,0,3.915692,-1640.0687,-355.70914)"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332"><tspan
+         x="373.98566"
+         y="147.91203"
+         id="tspan113771"><tspan
+           style="font-family:Z003;-inkscape-font-specification:'Z003, Normal';text-align:center;text-anchor:middle"
+           id="tspan113769">CQ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text16507"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect16509);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.742812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.44185324,0,0,0.58592086,176.50234,92.919776)"
+       inkscape:export-filename="/home/washopilot/Escritorio/rect45352.png"
+       inkscape:export-xdpi="105.29332"
+       inkscape:export-ydpi="105.29332"><tspan
+         x="295.17969"
+         y="295.21532"
+         id="tspan113775"><tspan
+           style="font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal'"
+           id="tspan113773">INDUSTRIAS METÁLICAS</tspan></tspan></text>
+  </g>
+</svg>
