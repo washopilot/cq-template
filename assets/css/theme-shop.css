@@ -1,7 +1,7 @@
 /*
 Name: 			theme-shop.css
 Written by: 	Okler Themes - (http://www.okler.net)
-Theme Version:	9.5.0
+Theme Version:	9.6.0
 */
 /* Custom Font - Stars (From WooCommerce) */
 @font-face {
@@ -826,7 +826,6 @@ html.lightbox-beforeclose .quick-view {
 	padding-left: 1.4rem;
 }
 
-/* Responsive */
 @media (max-width: 991px) {
 	.shop .actions-continue {
 		float: none;

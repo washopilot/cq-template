@@ -260,7 +260,7 @@ html.sticky-header-active #header .header-body {
 		}
 		#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li.dropdown-submenu > a:after {
 				content: "\f105";
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 6 Free';
 				font-weight: 900;
 				border: none;
 				margin: 0;
@@ -2226,12 +2226,6 @@ html.photography-demo-3.side-header #main {
 
 html.photography-demo-3 h1, html.photography-demo-3 h2, html.photography-demo-3 h3, html.photography-demo-3 h4, html.photography-demo-3 h5, html.photography-demo-3 h6, html.photography-demo-3 a, html.photography-demo-3 p, html.photography-demo-3 span {
 		font-family: "PT Sans", sans-serif;
-}
-
-@media (min-width: 992px) {
-		html.photography-demo-3.ie #header {
-				z-index: 998;
-		}
 }
 
 html.photography-demo-3 #main {

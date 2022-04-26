@@ -406,7 +406,7 @@ body {
 .patient-reviews .owl-next:before {
 		content: "\f060" !important;
 		color: #212529 !important;
-		font-family: 'Font Awesome 5 Free' !important;
+		font-family: 'Font Awesome 6 Free' !important;
 		font-weight: 900 !important;
 		font-size: 20px !important;
 		left: 1px !important;
@@ -427,7 +427,7 @@ body {
 .patient-reviews .owl-prev:before {
 		content: "\f060" !important;
 		color: #212529 !important;
-		font-family: 'Font Awesome 5 Free' !important;
+		font-family: 'Font Awesome 6 Free' !important;
 		font-weight: 900 !important;
 		font-size: 20px !important;
 		left: 1px !important;

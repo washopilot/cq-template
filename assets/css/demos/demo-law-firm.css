@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .custom-sort-source.sort-source.sort-source-style-3 li a:before, .custom-sort-source.sort-source.sort-source-style-3 li.active a:before {
-		font-family: 'Font Awesome 5 Free';
+		font-family: 'Font Awesome 6 Free';
 		font-weight: 900;
 		content: "\f105";
 		display: inline-block;

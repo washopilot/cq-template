@@ -494,7 +494,7 @@ html.sticky-header-active #header .header-body {
 */
 .custom-testimonial-quote.testimonial.testimonial-with-quotes blockquote:before {
 		content: '\f10d';
-		font-family: "Font Awesome 5 Free";
+		font-family: "Font Awesome 6 Free";
 		font-weight: 900;
 		font-size: 22.4px;
 		font-size: 1.4rem;

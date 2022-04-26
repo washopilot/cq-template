@@ -261,7 +261,7 @@ html.sticky-header-active #header .header-body {
 		}
 		#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li.dropdown-submenu > a:after {
 				content: "\f105";
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 6 Free';
 				font-weight: 900;
 				border: none;
 				margin: 0;
@@ -2306,14 +2306,14 @@ html.photography-demo-2 #photographyLightbox .mfp-close {
 }
 
 html.photography-demo-2 .tparrows.tp-rightarrow:before {
-		font-family: 'Font Awesome 5 Free';
+		font-family: 'Font Awesome 6 Free';
 		font-weight: 900;
 		content: "\f054";
 		font-size: 14px;
 }
 
 html.photography-demo-2 .tparrows.tp-leftarrow:before {
-		font-family: 'Font Awesome 5 Free';
+		font-family: 'Font Awesome 6 Free';
 		font-weight: 900;
 		content: "\f053";
 		font-size: 14px;
@@ -2350,13 +2350,13 @@ html.photography-demo-2 .owl-carousel .owl-nav button.owl-prev, html.photography
 }
 
 html.photography-demo-2 .owl-carousel .owl-nav button.owl-prev:before {
-		font-family: "Font Awesome 5 Free" !important;
+		font-family: "Font Awesome 6 Free" !important;
 		content: "" !important;
 		left: -1px !important;
 }
 
 html.photography-demo-2 .owl-carousel .owl-nav button.owl-next:before {
-		font-family: "Font Awesome 5 Free" !important;
+		font-family: "Font Awesome 6 Free" !important;
 		content: "" !important;
 		left: -1px !important;
 }
@@ -2367,14 +2367,14 @@ html.photography-demo-2 .custom-portfolio-navigation .prev, html.photography-dem
 }
 
 html.photography-demo-2 .custom-portfolio-navigation .prev:before {
-		font-family: "Font Awesome 5 Free" !important;
+		font-family: "Font Awesome 6 Free" !important;
 		content: "" !important;
 		left: 20px !important;
 		font-weight: 900 !important;
 }
 
 html.photography-demo-2 .custom-portfolio-navigation .next:before {
-		font-family: "Font Awesome 5 Free" !important;
+		font-family: "Font Awesome 6 Free" !important;
 		content: "" !important;
 		left: 24px !important;
 		font-weight: 900 !important;
@@ -2655,7 +2655,7 @@ html.photography-demo-2 #horizontalScrollBox {
 		}
 		html.photography-demo-2 #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li.dropdown-submenu > a:after {
 				content: "";
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 6 Free';
 				font-weight: 900;
 				border: none;
 				margin: 0;

@@ -226,3 +226,15 @@ p {
 		padding: 4px;
 		padding: .25rem;
 }
+
+/* List Icons */
+.custom-list-icons-1 .custom-list-icon {
+		width: 28px;
+		height: 28px;
+		border-radius: 2px;
+		margin-right: 3px;
+		display: inline-block;
+		text-align: center;
+		font-weight: bold;
+		line-height: 28px;
+}
