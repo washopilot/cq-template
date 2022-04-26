@@ -1,0 +1,8 @@
+.tp-caption {
+  text-shadow: 1px 1px 1px black;
+}
+
+.rev_slider li.slide-overlay .slotholder:after {
+  opacity: 0.4;
+  background: #424242;
+}
