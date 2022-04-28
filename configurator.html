@@ -19,12 +19,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no" />
 
     <!-- Web Fonts  -->
-    <link
-      id="googleFonts"
-      href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap"
-      rel="stylesheet"
-      type="text/css"
-    />
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css" />
 
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="./assets/vendor/bootstrap/css/bootstrap.min.css" />
@@ -53,7 +48,15 @@
     <!-- Head Libs -->
     <script src="./assets/vendor/modernizr/modernizr.min.js"></script>
   </head>
-  <body data-plugin-page-transition>
+  <body class="loading-overlay-showing" data-loading-overlay data-plugin-options="{'hideDelay': 500, 'effect': 'speedingWheel'}">
+    <!-- Precargador -->
+    <div class="loading-overlay">
+      <div class="bounce-loader">
+        <div class="cssload-speeding-wheel-container">
+          <div class="cssload-speeding-wheel"></div>
+        </div>
+      </div>
+    </div>
     <div class="body">
       <header
         id="header"
@@ -1974,13 +1977,11 @@
               <span> tu modelo de negocio</span>
             </h1>
             <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu,
-              ac tincidunt mauris lacus sed leo.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.
             </p>
           </div>
         </div>
       </div>
-
     </div>
 
     <footer id="footer" class="footer-texts-more-lighten">
